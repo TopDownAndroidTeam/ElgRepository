@@ -1,2 +1,3 @@
 # ElgRepository
-Elg's repository
+
+i tried installing the android SDK however it took longer than expected which is why i didnt code anything.
